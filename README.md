@@ -1,7 +1,8 @@
+### can watch Live demo here
+[https://codesandbox.io/s/todo-app-vh4jw](link to demo)
+### Project SetUp
 
-## Project SetUp
-
-In the project directory,run:
+In the project directory, run :
 
 ### `npm install` 
 To Install dependencies

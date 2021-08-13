@@ -1,5 +1,7 @@
 ### can watch Live demo here
-Link for project demo [https://codesandbox.io/s/todo-app-vh4jw]
+
+Link for project demo https://codesandbox.io/s/todo-app-vh4jw
+
 ### Project SetUp
 
 In the project directory, run :
